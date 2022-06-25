@@ -2,4 +2,12 @@
 <resources>
     <dimen name="widthLogoTwitter">180dp</dimen>
     <dimen name="heightLogoTwitter">160dp</dimen>
+    <dimen name="heightTweetActions">20dp</dimen>
+
+    <dimen name="viewHeightSize">0.5dp</dimen>
+    <dimen name="translateTextSize">13sp</dimen>
+    <dimen name="dateAndDeviceTextSize">15sp</dimen>
+    <dimen  name="contentTweetText">20sp</dimen>
+
+    <dimen name="indicatorsTextSize">14sp</dimen>
 </resources>
